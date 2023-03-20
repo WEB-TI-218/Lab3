@@ -1,0 +1,24 @@
+D:\Web Project\Новая папка\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.AssemblyReference.cache
+D:\Web Project\Новая папка\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Web Project\newfolder\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.AssemblyReference.cache
+D:\Web Project\newfolder\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Web Project\newfolder\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll.config
+D:\Web Project\newfolder\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll
+D:\Web Project\newfolder\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.pdb
+D:\Web Project\newfolder\eUseControl.BusinessLogic\bin\Debug\Antlr3.Runtime.dll
+D:\Web Project\newfolder\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll
+D:\Web Project\newfolder\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.dll
+D:\Web Project\newfolder\eUseControl.BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Web Project\newfolder\eUseControl.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\Web Project\newfolder\eUseControl.BusinessLogic\bin\Debug\System.Web.Optimization.dll
+D:\Web Project\newfolder\eUseControl.BusinessLogic\bin\Debug\WebGrease.dll
+D:\Web Project\newfolder\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.pdb
+D:\Web Project\newfolder\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll.config
+D:\Web Project\newfolder\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.pdb
+D:\Web Project\newfolder\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.dll.config
+D:\Web Project\newfolder\eUseControl.BusinessLogic\bin\Debug\Antlr3.Runtime.pdb
+D:\Web Project\newfolder\eUseControl.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+D:\Web Project\newfolder\eUseControl.BusinessLogic\bin\Debug\System.Web.Optimization.xml
+D:\Web Project\newfolder\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.CopyComplete
+D:\Web Project\newfolder\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.dll
+D:\Web Project\newfolder\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.pdb
